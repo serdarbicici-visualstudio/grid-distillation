@@ -18,7 +18,7 @@ The methodology involves applying Principal Component Analysis (PCA) to reduce t
         </div>
         <div style="display: flex; justify-content: center;">
             <img src="https://github.com/user-attachments/assets/5a779d32-b80f-4077-846f-9d4797c30e79" alt="Image 3" style="width: 45%; margin: 5px;">
-            <img src="image4_url](https://github.com/user-attachments/assets/c2b60e92-d153-4988-928c-e06a0a49082d" alt="Image 4" style="width: 45%; margin: 5px;">
+            <img src="https://github.com/user-attachments/assets/c2b60e92-d153-4988-928c-e06a0a49082d" alt="Image 4" style="width: 45%; margin: 5px;">
         </div>
     </div>
 </div>
